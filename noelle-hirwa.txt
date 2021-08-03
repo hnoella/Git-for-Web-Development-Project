@@ -11,9 +11,13 @@ link to finished codepen: https://codepen.io/hnoella/pen/qBmyQzd?editors=1100
     2. What is HTML used for? 
     - it is used to build the structure of our websites.
     3. What is an attribute and where do we put it? 
+    - they define additional characteristics or properties and they are usually in the start tag or opening tag 
     4. What is the h1 tag used for? How many times should I use it on a page?
+    - it is used for the header title of a page and is usually on used once
     5. Name two tags that have required attributes
+    - the (a) tag and (img) tag
     6. What do we put in the head of our HTML document? 
+    you put the title of the page and sometimes the nav bar.
     7. What is an id? 
     8. What elements can I add an id to? 
     9. How many times can I use the same id on a page? 
